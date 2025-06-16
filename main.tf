@@ -16,3 +16,4 @@ resource "aws_subnet" "subnet_1"{
         Name = "development_subnet"
     }
 }
+
