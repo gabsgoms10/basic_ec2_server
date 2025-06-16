@@ -1,0 +1,26 @@
+# === Terraform ===
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Variáveis e arquivos sensíveis
+*.tfvars
+*.auto.tfvars
+terraform.tfvars.json
+
+# Logs e arquivos temporários
+*.log
+.crash/
+
+# === IDEs ===
+# VS Code
+.vscode/
+# IntelliJ / JetBrains
+.idea/
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
