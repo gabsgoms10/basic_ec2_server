@@ -1,6 +1,6 @@
 # basic_ec2_server
 
-1. Criar VPC  
+1. Criar VPC -OK
 2. Criar Internet Gateway  
 3. Criar Route Table  
 4. Criar Subnet  
